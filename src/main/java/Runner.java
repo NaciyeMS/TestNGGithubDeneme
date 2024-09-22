@@ -5,5 +5,6 @@ public class Runner {
         System.out.println("versiyon 3");
         System.out.println("ncy 1");
         System.out.println("ncy 2");
+        //remote depoda değişiklik yaptım 
     }
 }
