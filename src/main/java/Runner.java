@@ -8,6 +8,7 @@ public class Runner {
         //remote depoda değişiklik yaptım
         System.out.println("dev 1 in commiti ");
         //githup da commit oluşturdum 
-        //dev 2 de buraya kodyazıyoruz. 
+        System.out.println("techpro4");
+
     }
 }
